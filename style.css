@@ -26,6 +26,7 @@ body {
 main {
   color: white;
   font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
 }
 a {
 text-decoration: none;
@@ -33,10 +34,18 @@ color: pink;
 }
 
 a:hover {
-  color: #ffde59;
+  color: #f0c93a;
   text-decoration: underline;
 }
 
-pre {
- 
+span {
+  color: #ffba59;
+}
+#nav {
+  color: green;
+}
+#txt {
+  font-size: 20px;
+  color: aqua;
+  font-family: 'Times New Roman', Times, serif;
 }
