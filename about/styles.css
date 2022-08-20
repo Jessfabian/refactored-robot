@@ -38,6 +38,7 @@ a:hover {
   list-style-type: none;
   margin: 0 auto;
   padding: 0;
+  
 }
 
 .nav .name {
@@ -50,6 +51,7 @@ a:hover {
 }
 .nav a {
   transition: all .5s;
+  color: #ffba59dd;
 }
 .nav a:hover {
   color: white
